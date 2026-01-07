@@ -1,0 +1,1 @@
+print("github 연결 완료")
